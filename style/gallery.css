@@ -1,0 +1,8 @@
+html,body{
+    height:100%;
+    width:100%;
+    padding: 0px;
+    margin: 0px;
+    background: url(../img/h-heyerlein-199092-unsplash.jpg)no-repeat center fixed;
+    color:#ffffffff;
+}
